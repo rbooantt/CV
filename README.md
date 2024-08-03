@@ -5,7 +5,6 @@ Análisis y predicción de los precios de las viviendas en la ciudad de Madrid.p
 - In the supervised learning task, several models such as Random Forest, Gradient Boosting and SVM are considered.
 - In the unsupervised learning, we use the hierarchical agglomerative algorithm to determine the number of groups and the k-means algorithm to understand the characteristics of each group.
 
-Trabajo_Fin_Grado_LU.html -> This file is a Jupyter Notebook (transformed to html) which contains all the activities that are carried out during the Final Degree Project. 
-To see more, download the file. 
+Trabajo_Fin_Grado_LU.html -> This file is a Jupyter Notebook (transformed to html) which contains all the activities that are carried out during the Final Degree Project. To see more, download the file. 
 
 Practica_1_MD.ipynb -> This file contains an analysis and prediction of data from a telecommunications company, for which we aim to predict whether the customer will acquire a product using machine learning models.
