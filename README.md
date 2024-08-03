@@ -5,6 +5,6 @@ Here I will drop some of the projects that I found to be the most interesting du
 - In the supervised learning task, several models such as **Random Forest**, **Gradient Boosting** and **SVM** are considered.
 - In the unsupervised learning task, the **hierarchical agglomerative algorithm** is used to determine the number of groups and the **k-means algorithm** to understand the characteristics of each group.
 
-**Trabajo_Fin_Grado_LU.ipynb** -> This file is a Jupyter Notebook which contains all the activities that are carried out during the Final Degree Project. To see more, download the file. 
+**Trabajo_Fin_Grado_LU.ipynb** -> This file is a Jupyter Notebook which contains all the activities that are carried out during the Final Degree Project.
 
 **Practica_1_MD.ipynb** -> This file is a  Jupyter Notebook which contains an analysis of data from a telecommunications company, for which we aim to predict whether a customer will acquire a product using machine learning models.
