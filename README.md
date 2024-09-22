@@ -9,4 +9,4 @@ Hello there visitor, in this repository I will drop some of the projects that I 
 
 **TFG.ipynb** -> This file is a Jupyter Notebook which contains all the activities that are carried out during the Final Degree Project, which includes **ETL** (Extract, Load and Transformation), **EDA** (Exploratory Data Analysis), **Data Preprocessing**, **Supervised Learning** and **Unsupervised Learning**. 
 
-**Practica_1_MD.ipynb** -> This file is a Jupyter Notebook which contains an analysis of data from a telecommunications company, for which we aim to predict whether a customer will acquire a product using machine learning models.
+**Practica_1_Data_Mining.ipynb** -> This file is a Jupyter Notebook which contains an analysis of data from a telecommunications company, for which we aim to predict whether a customer will acquire a product using machine learning models.
